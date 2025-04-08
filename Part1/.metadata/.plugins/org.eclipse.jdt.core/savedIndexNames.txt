@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\user\Desktop\home_assignment_hadasim_5.0\PartOne\.metadata\.plugins\org.eclipse.jdt.core
+38435688.index
+2848802506.index
+1865797976.index
